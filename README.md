@@ -54,7 +54,6 @@ counts, timings, status and error detail.
 /sql
     01_control_table.sql     Control table DDL + seed rows
     02_logging_table.sql     Audit table DDL
-    03_usp_log_event.sql     Logging stored procedure
 /adf
     pipeline.json            Exported pipeline definition
     datasets/                Parameterised dataset definitions
